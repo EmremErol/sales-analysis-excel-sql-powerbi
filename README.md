@@ -17,9 +17,7 @@ Microsoft Excel
 SQL (MySQL / SQL Server)
 Power BI
 Project Structure
-
 sales-analysis-excel-sql-powerbi/
-
 │
 ├── excel/
 │ ├── ecommerce_dashboard.xlsx
@@ -45,7 +43,6 @@ sales-analysis-excel-sql-powerbi/
 Excel Dashboard
 
 The Excel dashboard includes:
-
 KPI Cards
 Total Revenue
 Total Orders
