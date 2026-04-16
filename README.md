@@ -14,8 +14,10 @@ built an Excel dashboard for visualization
 sales-analysis-excel-sql-powerbi/
 │
 ├── excel/
-│   ├── ecommerce_dashboard.xlsx
-│   └── screenshots/
+│   ├── 
+ecommerce_dashboard.xlsx
+│   └── 
+screenshots/
 │       ├── AnalysisData.png
 │       ├── Base.png
 │       ├── Images.png
