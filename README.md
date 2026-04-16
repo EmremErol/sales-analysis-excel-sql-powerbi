@@ -11,13 +11,13 @@ generated and inserted sales data
 performed SQL-based data analysis
 built an Excel dashboard for visualization
 📁 Project Structure
+
+```text
 sales-analysis-excel-sql-powerbi/
 │
 ├── excel/
-│   ├── 
-ecommerce_dashboard.xlsx
-│   └── 
-screenshots/
+│   ├── ecommerce_dashboard.xlsx
+│   └── screenshots/
 │       ├── AnalysisData.png
 │       ├── Base.png
 │       ├── Images.png
@@ -30,6 +30,7 @@ screenshots/
 │   └── analysis_queries_video.mp4
 │
 └── README.md
+```
 📊 Excel Dashboard
 
 Main file:
