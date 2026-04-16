@@ -1,104 +1,73 @@
-Sales Analysis Project | Excel, SQL, Power BI
+📊 Sales Analysis Project (Excel + SQL)
 
-This repository contains an end-to-end sales analysis project built using Excel, SQL, and Power BI.
+This project is an end-to-end sales analysis built using SQL and Excel.
 
-The project demonstrates the full data analysis workflow from data preparation and querying to dashboard creation and business insights.
+🚀 Project Overview
 
-Project Goal
+In this project, I:
 
-The goal of this project is to:
-
-build a structured sales dataset
-analyze data using SQL
-create dashboards in Excel and Power BI
-extract meaningful business insights
-Tools Used
-Microsoft Excel
-SQL (MySQL / SQL Server)
-Power BI
-Project Structure
+created a relational database
+generated and inserted sales data
+performed SQL-based data analysis
+built an Excel dashboard for visualization
+📁 Project Structure
 sales-analysis-excel-sql-powerbi/
 │
 ├── excel/
-│ ├── ecommerce_dashboard.xlsx
-│ └── screenshots/
-│ ├── excel-dashboard.png
-│ ├── AnalysisData.png
-│ ├── Base.png
-│ ├── Images.png
-│ └── PivotTableAnalyst.png
-
+│   ├── ecommerce_dashboard.xlsx
+│   └── screenshots/
+│       ├── AnalysisData.png
+│       ├── Base.png
+│       ├── Images.png
+│       ├── PivotTableAnalyst.png
+│       └── excel-dashboard.png
+│
 ├── sql/
-│ ├── create_tables.sql
-│ ├── insert_data.sql
-│ ├── analysis_queries.sql
-│ └── screenshots/
-
-├── powerbi/
-│ ├── sales_dashboard.pbix
-│ └── screenshots/
-
+│   ├── SalesAnalysisDB_Setup.sql
+│   ├── analysis_queries.sql
+│   └── analysis_queries_video.mp4
+│
 └── README.md
+📊 Excel Dashboard
 
-Excel Dashboard
+Main file:
 
-The Excel dashboard includes:
-KPI Cards
-Total Revenue
-Total Orders
-Total Customers
-Avg Order Value
-Charts
-Sales by City
-Sales by Category
-Payment Method Distribution
-Top Products
-Excel Screenshots
-Dashboard
+excel/ecommerce_dashboard.xlsx
 
-Base Tables
+Dashboard preview:
 
-Analysis Data
 
-Pivot Analysis
 
-SQL Analysis (In Progress)
 
-The SQL part of the project includes:
+📈 SQL Analysis
 
-database schema design
-table creation scripts
-data insertion
-analytical queries
+SQL files:
 
-Planned analysis:
+sql/SalesAnalysisDB_Setup.sql
+sql/analysis_queries.sql
 
-sales by city
-sales by category
-customer-based analysis
-order analysis
-Power BI Dashboard (In Progress)
+Query explanations video:
 
-The Power BI section will include:
+sql/analysis_queries_video.mp4
 
-interactive dashboard
-data visualization
-business insights
-report pages
-Key Insights (Excel)
-Total Revenue: 66,600
-Total Orders: 7
-Total Customers: 7
-Average Order Value: 9,514.29
-Top-performing category: Electronics
-Top-performing product by revenue: Laptop
-Most used payment method: Credit Card
-Project Status
- Excel dashboard completed
- SQL analysis in progress
- Power BI dashboard in progress
-Author
+The analysis includes:
 
-Emre Erol
+total sales
+average order value
+product performance
+customer analysis
+monthly trends
+payment method analysis
+🎯 Purpose
 
-GitHub: https://github.com/EmremErol
+This project focuses on improving:
+
+SQL querying skills
+data analysis thinking
+dashboard development in Excel
+👨‍💻 About Me
+
+Junior Data Analyst focused on Excel and SQL.
+
+LinkedIn:
+https://www.linkedin.com/in/emre-erol-642bb5293/
