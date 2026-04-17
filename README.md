@@ -96,7 +96,7 @@ powerbi/sales_dashboard.pbix
 
 Dashboard preview:
 
-![Power BI Dashboard](powerbi/screenshot/powerbı-dashboard.png)
+![Power BI Dashboard](powerbi/screenshot/powerbı-dasboard.png)
 
 Data model:
 
