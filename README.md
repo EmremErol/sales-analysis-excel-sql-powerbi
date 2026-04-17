@@ -96,11 +96,11 @@ powerbi/sales_dashboard.pbix
 
 Dashboard preview:
 
-![Power BI Dashboard](powerbi/screenshots/powerbi-dashboard.png)
+![Power BI Dashboard](powerbi/screenshots/powerbı-dashboard.png)
 
 Data model:
 
-![Data Model](powerbi/screenshots/relation-table.png)
+![Data Model](powerbi/screenshots/relational-table.png)
 
 The dashboard includes:
 
